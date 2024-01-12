@@ -4954,18 +4954,18 @@ header.sticky {
 }
 
 .faq-accordion .accordion .accordion-item .accordion-header .accordion-button::before {
-  content: "\f128";
+  content: counter(css-counter);
   position: absolute;
-  width: 30px;
-  height: 30px;
-  background: #ca8608;
-  border-radius: 50%;
-  color: #1e2028;
-  font-size: 16px;
-  line-height: 30px;
+  width: 45px;
+  height: 45px;
+  background: rgb(202, 134, 8);
+  border-radius: 50px;
+  color: rgb(0, 0, 0);
+  font-size: 18px;
+  line-height: 50px;
   text-align: center;
-  font-family: "Font Awesome 5 Pro";
-  left: 0;
+  left: 0px;
+  right: 5px;
 }
 
 .faq-accordion .accordion .accordion-item .accordion-collapse .accordion-body {
