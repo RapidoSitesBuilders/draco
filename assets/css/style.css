@@ -373,6 +373,20 @@ p b {
   content: none;
 }
 
+/* Default styles for desktop */
+.responsive-video {
+  width: 500px;
+  height:500px;
+}
+
+/* Styles for screens that are 768px wide or less (like tablets and phones) */
+@media screen and (max-width: 768px) {
+  .responsive-video {
+    width: 250px;
+    height: 500px;
+  }
+}
+
 .align-center-v-b {
   height: 100%;
   display: flex;
