@@ -211,7 +211,7 @@ body {
   font-weight: 400;
   line-height: 28px;
   color: #97a6b3;
-  background-color: #1e2028;
+  background-color: #12141d;
 }
 
 @media (max-width: 767px) {
@@ -2331,13 +2331,13 @@ nav .breadcrumb li {
 .custom-btn--price--active {
   border-color: #7579d9;
   background-color: #7579d9;
-  color: #1e2028;
+  color: #12141d;
   transform: none;
   border: 2px solid #7579d9;
 }
 
 .preloader {
-  background-color: #1e2028;
+  background-color: #12141d;
   align-items: center;
   cursor: default;
   display: flex;
@@ -2624,7 +2624,7 @@ header.header-1 .header-right-element .color-2:hover {
 header.sticky {
   position: fixed;
   top: 0;
-  background-color: #1e2028;
+  background-color: #12141d;
   border: 1px solid rgba(255, 193, 7, 0.2);
 }
 
@@ -2771,7 +2771,7 @@ header.sticky {
   scroll-behavior: smooth;
   overflow-y: scroll;
   transition: right 0.5s ease-in;
-  background-color: #1e2028;
+  background-color: #12141d;
   padding: 20px;
   z-index: 9999;
   box-shadow: 0 13px 35px -12px rgba(255, 193, 7, 0.2);
@@ -3355,7 +3355,7 @@ header.sticky {
 }
 
 .single-user-ditails-card {
-  background-color: #1e2028;
+  background-color: #12141d;
   border-radius: 1rem;
   border: 2px solid transparent;
   text-align: center;
@@ -3988,7 +3988,7 @@ header.sticky {
 
 .single-crypto-currency-card {
   padding: 30px;
-  background-color: #1e2028;
+  background-color: #12141d;
   border-radius: 1rem;
   margin-top: 30px;
   transition: all 0.3s ease-in-out;
@@ -5382,7 +5382,7 @@ header.sticky {
   width: 100%;
   height: 60px;
   padding: 0px 30px;
-  background-color: #1e2028;
+  background-color: #12141d;
   border: 0px;
   border-radius: 3px;
   color: #FFFFFF;
@@ -5785,7 +5785,7 @@ header.sticky {
   width: 100%;
   height: 60px;
   padding: 0px 30px;
-  background-color: #1e2028;
+  background-color: #12141d;
   border: 0px;
   color: #FFFFFF;
   font-size: 18px;
@@ -6030,7 +6030,7 @@ footer .footer-bottom-wrapper .footer-bottom-content .social-links a:hover {
   border-radius: 0.75rem;
   padding: 50px 40px;
   margin: 0 auto;
-  background-color: #1e2028;
+  background-color: #12141d;
 }
 
 .account__wrapper .title {
@@ -6059,7 +6059,7 @@ footer .footer-bottom-wrapper .footer-bottom-content .social-links a:hover {
   border: 1px solid rgba(255, 193, 7, 0.3);
   outline: none;
   color: #FFFFFF;
-  background: #1e2028;
+  background: #12141d;
   box-shadow: 0px 2px 2px 0px rgba(255, 193, 7, 0.1);
   padding: 0.6rem 1rem;
 }
